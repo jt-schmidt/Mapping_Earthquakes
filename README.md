@@ -9,8 +9,8 @@ Includes map of Earthquake data featuring layers for:
 - Different map types
 
 Resources used:
-https://www.mapbox.com/
-https://leafletjs.com/
+- https://www.mapbox.com/
+- https://leafletjs.com/
 
 ## Other Folders
 All other folders are practice efforts learning this module and what mapping options are available.
